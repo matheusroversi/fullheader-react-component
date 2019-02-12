@@ -13,13 +13,13 @@
 ## Installation
 
 ```sh
-$ npm install --save react-full-header
+$ npm install --save fullheader-react-component
 ```
 
 ## Basic Usage
 
 ```jsx
-import FullHeader from 'react-full-header';
+import FullHeader from 'fullheader-react-component';
 
 ...
 render() {
